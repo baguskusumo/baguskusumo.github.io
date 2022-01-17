@@ -340,7 +340,7 @@ nav a::before {
   overflow: hidden;
 }
 #image-slider ul li:nth-child(1) {
-  background-image: url(../images/bagus-kusumo.jpg);
+  background-image: url(../images/bagus-kusumo.JPG);
 }
 #image-slider ul li:nth-child(2) {
   background-image: url(../images/2.jpg);
